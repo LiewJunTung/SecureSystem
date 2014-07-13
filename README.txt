@@ -4,7 +4,8 @@ A demonstration of a secure application
 3) Access Control for different users (e.g. Admin/User) 
 4) Double authentication using Email 
 5) Password strength requirement 
-7) User log 8) Forgot password 
+7) User log 
+8) Forgot password 
 9) Password will expire 
 10) Prohibit the usage of old passwords 
 11) Phishing prevention by using SecureImage and SecureWord 
